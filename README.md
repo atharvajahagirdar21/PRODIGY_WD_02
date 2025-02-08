@@ -1,4 +1,4 @@
-🚀 #PRODIGY_JS_02 – Digital Clock Web Application ⏰  
+🚀 #PRODIGY_WD_02 – Digital Clock Web Application ⏰  
 ✨ About the Project  
 A sleek and interactive digital clock that displays real-time time updates in hours, minutes, and seconds! 🕒🌍  
 
@@ -10,4 +10,4 @@ A sleek and interactive digital clock that displays real-time time updates in ho
 
 🚀 Built using: JavaScript – mastering DOM manipulation and enhancing user interactivity for a dynamic experience.  
 
-#WebDevelopment #JavaScript #DigitalClock #RealTimeUpdates #PRODIGY_JS_02 #UIUX #TechInnovation
+#WebDevelopment #JavaScript #DigitalClock #RealTimeUpdates #PRODIGY_WD_02 #UIUX #TechInnovation
